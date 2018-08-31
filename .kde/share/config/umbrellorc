@@ -1,0 +1,25 @@
+[General Options]
+Geometry=1301,744
+autosavetime=5
+
+[KFileDialog Settings]
+Height 768=510
+Recent Files[$e]=$HOME/Documents/aravind bank.xmi,$HOME/Documents/aravind bank.xmi
+Recent URLs[$e]=
+Width 1366=816
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAEoAAACefwCAAAAA/sAAAAYAFQAcgBlAGUAVgBpAGUAdwBEAG8AYwBrAQAAAEwAAAC/AAAAYQD////7AAAAEgBEAGUAYgB1AGcARABvAGMAawEAAAERAAAAvwAAAGEA/////AAAAdYAAADvAAAAmAEAAB36AAAAAgIAAAAD+wAAACIARABvAGMAdQBtAGUAbgB0AGEAdABpAG8AbgBEAG8AYwBrAQAAAAD/////AAAAegD////7AAAAHABDAG0AZABIAGkAcwB0AG8AcgB5AEQAbwBjAGsBAAAAAP////8AAABhAP////sAAAAOAEwAbwBnAEQAbwBjAGsBAAAAAP////8AAABhAP///wAAA+cAAAJ5AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAHcAbwByAGsAdABvAG8AbABiAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1367
+
+[MainWindow][Toolbar worktoolbar]
+ToolButtonStyle=IconOnly
+
+[Recent Files]
+File1[$e]=$HOME/Documents/aravind bank.xmi
+Name1[$e]=aravind bank.xmi
+
+[workbar]
+ToolButtonStyle=IconOnly

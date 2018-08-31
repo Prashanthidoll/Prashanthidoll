@@ -1,0 +1,22 @@
+Error loading .desktop file /usr/share/app-install/desktop/activity-log-manager:gnome-activity-log-manager-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/applications/gnome-deja-dup-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/deja-dup:gnome-deja-dup-panel.desktop: constructor returned NULL
+
+** (update-notifier:2836): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:2836): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+
+** (zeitgeist-datahub:2628): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/.org.chromium.Chromium.aZ70Q8: Error when getting information for file '/home/eswecha/Downloads/.org.chromium.Chromium.aZ70Q8': No such file or directory
+
+** (zeitgeist-datahub:2628): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:2628): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:2628): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/Resume-20180831T070656Z-001: Error when getting information for file '/home/eswecha/Downloads/Resume-20180831T070656Z-001': No such file or directory
+
+** (zeitgeist-datahub:2628): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/eswecha/Downloads/Resume-20180831T070656Z-001 (2): Error when getting information for file '/home/eswecha/Downloads/Resume-20180831T070656Z-001 (2)': No such file or directory
+
+** (zeitgeist-datahub:2628): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+WARN  2018-08-31 12:37:28 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(gnome-terminal:3516): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.

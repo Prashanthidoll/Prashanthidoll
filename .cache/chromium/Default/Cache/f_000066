@@ -1,0 +1,1507 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="https://www.youth4work.com/icon/favicon.ico" title="Youth4Work" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="theme-color" content="#317EFB" />
+    <title>Email verification for user - Youth4work</title>
+    <meta name="description" content="Best job site for finding Jobs, Internships, Part time work and building your career. Build profiles and give tests for career opportunity, placements and recruitment" />
+    <meta name="keywords" content="Youth4work, youth for work, youth4forwork, ytest, yassess, ychallenge, prep test, educator, jobs, internships, colleges, universities, freelance jobs, online test, skill test, talent test, mock test, government jobs, online course, free job posting, hire candidates, find job seekers, find resume, exam preparation">
+    <meta name="og:type" property="og:type" content="website" />
+    <meta name="og:title" property="og:title" content="Email verification for user - Youth4work" />
+    <meta name="og:description" property="og:description" content="Best job site for finding Jobs, Internships, Part time work and building your career. Build profiles and give tests for career opportunity, placements and recruitment" />
+    <meta name="og:image" property="og:image" content="https://www.static-contents.youth4work.com/Images/Y4WLogo.png" />
+    <meta name="og:site_name" property="og:site_name" content="youth4work.com" />
+    <meta name="og:url" property="og:url" content="https://www.youth4work.com" />
+    <meta name="twitter:card" value="Summary" />
+    <meta name="twitter:site" value="youth4work.com" />
+    <meta name="twitter:creator" value=@youth4work />
+    <meta name="twitter:title" content="Email verification for user - Youth4work" />
+    <meta name="twitter:description" content="Best job site for finding Jobs, Internships, Part time work and building your career. Build profiles and give tests for career opportunity, placements and recruitment" />
+    <meta property="fb:admins" content="100002950062277" />
+
+
+    <link rel="alternate" hreflang="x-default" href="https://www.youth4work.com/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ar" href="https://www.youth4work.com/ar/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="bn" href="https://www.youth4work.com/bn/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="de" href="https://www.youth4work.com/de/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="fr" href="https://www.youth4work.com/fr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="hi" href="https://www.youth4work.com/hi/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="gu" href="https://www.youth4work.com/gu/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ja" href="https://www.youth4work.com/ja/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="it" href="https://www.youth4work.com/it/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="kn" href="https://www.youth4work.com/kn/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ml" href="https://www.youth4work.com/ml/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="mr" href="https://www.youth4work.com/mr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="or" href="https://www.youth4work.com/or/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="pa" href="https://www.youth4work.com/pa/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="pt" href="https://www.youth4work.com/pt/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ta" href="https://www.youth4work.com/ta/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="tr" href="https://www.youth4work.com/tr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="te" href="https://www.youth4work.com/te/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ru" href="https://www.youth4work.com/ru/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="ur" href="https://www.youth4work.com/ur/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="zh" href="https://www.youth4work.com/zh/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-AR" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-BO" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-CL" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-CO" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-CR" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-DO" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-EC" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-ES" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-GT" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-HN" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-MX" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-NI" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-PA" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-PE" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-PR" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-PY" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-SV" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-UY" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+                <link rel="alternate" hreflang="es-VE" href="https://www.youth4work.com/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a" />
+            <link href="https://plus.google.com/u/0/106873176121719580522" rel="publisher">
+    <link rel="stylesheet" href="https://www.static-contents.youth4work.com/css/bootstrap.min.css">
+
+
+
+    <style type="text/css">
+        .gsc-search-button {
+            background-color: #007CBD;
+            border-radius: 2px;
+            margin-top: 5px;
+        }
+
+        .modal {
+            z-index: 99999;
+        }
+
+        @media (min-width: 768px) {
+            #model-alert .modal-sm {
+                width: 600px !important;
+            }
+        }
+
+        input.gsc-search-button, input.gsc-search-button:hover, input.gsc-search-button:focus {
+            background-color: #007CBD !important;
+            background-image: url("https://www.static-contents.youth4work.com/Images/search_box_icon.png") !important;
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            height: 16px !important;
+            border-color: #007CBD !important;
+            filter: none;
+        }
+
+        .gsc-input1 {
+            width: 90%;
+            padding: 0px;
+            border: none;
+            margin: 0px;
+            height: 23px;
+            outline: none;
+            background: url(https://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif) 0% 50% no-repeat rgb(255, 255, 255);
+        }
+
+        .gsib_a {
+            width: 100%;
+            padding: 2px 6px 0;
+            font-size: 12px;
+        }
+
+        .clsrackspace {
+            display: none;
+        }
+    </style>
+    <link href="/css/y4wResponsive.css" rel="stylesheet" />
+    <link href="https://www.static-contents.youth4work.com/css/preptestResponsive.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/Site.css" />
+    
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+</head>
+<body class="y4wbody" style="background: none; background-color: #f2f2f2;">
+
+    <div class="row" style="margin:0px;">
+        <div id="header-design">
+            <div class="modal fade" tabindex="-1" id="model-alert" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-sm">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title bigbluefont">Information!</h4>
+                        </div>
+                        <div class="modal-body biglightgrayfont model-message">
+                        </div>
+                        <div class="modal-footer" style="border: 0px !important; padding: 10px 20px; margin-top: 0px;">
+                            <button type="button" class="btn btn-default model-close" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+
+
+
+
+
+
+<link href="https://www.static-contents.youth4work.com/css/AdminLTE.css" rel="stylesheet" type="text/css" />
+
+
+    <style type="text/css">
+        .header-body > .header .h-domain-name > a > .caret {
+            border-top-color: #087ccd !important;
+        }
+    </style>
+
+<style type="text/css">
+    .navbar-static-top > .navbar-left, .navbar-static-top > .navbar-right{
+        position:relative;
+    }
+    .disable-menu {
+        position: absolute; 
+        top:0px;
+        bottom:0px;
+        left:0px;
+        right:0px;
+        z-index:9999;
+    }
+    .header-body > .header .search-box {
+        padding: 7px 10px 12px !important;
+    }
+
+    .header-body > .header #slideLeftMenu {
+        min-height: 55px;
+    }
+
+    .header-body > .header .slideLeftMenu {
+        width: 100% !important;
+        border-right: 10px solid #fff;
+    }
+    /*.header-body > .header .left-menu {
+        width: 96.9%;
+    }*/
+
+    @media (max-width:400) {
+        .header-body > .header .left-menu {
+            width: 96.9%;
+        }
+    }
+
+    @media (min-width:401) and (max-width:900) {
+        .header-body > .header .left-menu {
+            width: 40%;
+        }
+    }
+</style>
+
+
+
+<div class="header-body skin-blue">
+    <!-- header logo: style can be found in header.less -->
+    <header class="header">
+        <div class="clearfix hidden-sm hidden-xs" style="position:relative;">
+            <div class="disable-header-menu hide" style="top: 0px;right: 0px;height: 60px;left: 0px;position: fixed;z-index: 99999999;"></div>
+            <div class="domain">
+                <div class="h-main">
+                    <ul class="list-inline h-menu">
+                        <li>
+                            <div class="h-domain-name">
+                                <a href="https://www.youth4work.com/User/Default">
+                                    <div class="h-logo y4wMain">&nbsp;</div>
+                                    <b class="caret" style="border-top-color: #087ccd !important;float: right;margin-top: -23px;position: absolute;margin-left: 55px;"></b>
+                                </a>
+                            </div>
+                            <ul class="list-unstyled sub-menu y4wDomainCls">
+                                                                    <li>
+                                        <a href="https://www.cos.youth4work.com/" style="padding: 0px;">
+                                            <div class="h-domain-name">
+                                                <div class="h-logo y4wCos">&nbsp;</div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.prep.youth4work.com/" style="padding: 0px;">
+                                            <div class="h-domain-name">
+                                                <div class="h-logo y4wPrep">&nbsp;</div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.university.youth4work.com/" style="padding: 0px;">
+                                            <div class="h-domain-name">
+                                                <div class="h-logo y4wUniv">&nbsp;</div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.ed.youth4work.com/" style="padding: 0px;">
+                                            <div class="h-domain-name">
+                                                <div class="h-logo y4wEdu">&nbsp;</div>
+                                            </div>
+                                        </a>
+                                    </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <div class="navbar-left">
+                    <ul class="list-inline h-menu">
+                            <li>
+                                <a href="https://www.youth4work.com/">
+                                    <span>Test Yourself</span>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="list-unstyled sub-menu">
+                                    <li><a href="https://www.youth4work.com/onlinetalenttest">yTests</a></li>
+                                    <li><a href="https://www.prep.youth4work.com/">Prep Tests</a></li>
+                                    <li><a href="https://www.youth4work.com/PsychometricTest/Instruction/1">Psychometric Test</a></li>
+                                    <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-talents">Talent Ranks</a></li>
+                                    <li><a href="https://www.youth4work.com/User/Discussion">Discussions</a></li>
+                                    <li><a href="https://www.ed.youth4work.com/">Talent Courses</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="https://www.cos.youth4work.com/">
+                                    <span>For Jobs</span>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="list-unstyled sub-menu">
+                                    <li><a href="https://www.youth4work.com/onlinetalenttest">Talent Tests</a></li>
+                                    <li><a href="https://www.cos.youth4work.com/Jobs">Search Jobs</a></li>
+                                    <li><a href="https://www.youth4work.com/User/EditProfile">Update Profile</a></li>
+                                    <li><a href="https://www.cos.youth4work.com/Find">Find Employers</a></li>
+                                    <li><a href="https://www.cos.youth4work.com/Insights">Job Insights</a></li>
+                                    <li><a href="https://www.ed.youth4work.com/">Certification Courses</a></li>
+                                    <li><a href="https://www.youth4work.com/User/yTalReport">Premium Services</a></li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering">
+                                    <span>My College</span>
+                                    <b class="caret"></b>
+                                </a>
+                                    <ul class="list-unstyled sub-menu">
+                                        <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering/student-profile">Alumni &amp; Students</a></li>
+                                        <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering/forum">College Forums</a></li>
+                                        <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering/study">News &amp; Study Materials</a></li>
+                                        <li><a href="https://www.youth4work.com/Talent/FilterTalent?college=Vaagdevi-College-of-Engineering&hasresume=0&isemailverified=0&ismobileverified=0&ytested=0">College Rankboard</a></li>
+                                        <li><a href="https://www.ed.youth4work.com/">Certification Courses</a></li>
+
+                                    </ul>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/y/bandikrishna007">
+                                    <span>My Profile</span>
+                                    <b class="caret"></b>
+                                </a>
+                                    <ul class="list-unstyled sub-menu">
+                                        <li><a href="https://www.youth4work.com/y/bandikrishna007">Public Profile</a></li>
+                                        <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-portfolio">Blogs &amp; Portfolio</a></li>
+                                        <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-talents">My Ranks</a></li>
+                                        <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-popularity">Popularity</a></li>
+                                        <li><a href="https://www.youth4work.com/User/EditProfile">Update Profile</a></li>
+                                        <li><a href="https://www.youth4work.com/User/yKnown"><span>yKnown</span></a></li>
+                                        <li><a href="https://www.youth4work.com/User/yTalReport"><span>yTal Report</span></a></li>
+                                    </ul>
+                            </li>
+                    </ul>
+                </div>
+
+
+                <div class="navbar-right notificationss">
+                    <ul class="nav navbar-nav">
+                        <!-- Messages: style can be found in dropdown.less-->
+                        <li class="dropdown tasks-menu gsearchbox hidden-sm hidden-xs" style="height: 60px;">
+                            <a href="#" class="dropdown-toggle gsearchbox" data-toggle="dropdown">
+                                <input type="image" src="https://www.static-contents.youth4work.com/Images/search_box_icon.png" title="search" class="gsearchbox">
+                            </a>
+                            <ul class="dropdown-menu ul-gsearchbox sub-gsearchbox" style="width: 480px; max-width: 480px; right: -10px;">
+                                <li class="header search-box sub-gsearchbox" style="position:relative;max-width: 478px;">
+                                    
+                                    <div class="sub-gsearchbox">
+                                        <script>
+                                            (function () {
+                                                var cx = '010146519610249960885:ltjpcyb_p1a';
+                                                var gcse = document.createElement('script');
+                                                gcse.type = 'text/javascript';
+                                                gcse.async = true;
+                                                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                                    '//www.google.com/cse/cse.js?cx=' + cx;
+                                                var s = document.getElementsByTagName('script')[0];
+                                                s.parentNode.insertBefore(gcse, s);
+                                            })();
+                                        </script>
+                                        <gcse:searchbox-only resultsurl="https://www.youth4work.com/SearchedResults" enableautocomplete="true">
+                                            <form method="get" action="https://www.youth4work.com/SearchedResults">
+                                                <input type="text" id="q" autocomplete="off" class="gsc-input1 sub-gsearchbox" style="width: 400px; position:relative;" />
+                                            </form>
+                                        </gcse:searchbox-only>
+                                    </div>
+                                    
+                                </li>
+                            </ul>
+                        </li>
+                            <!-- Messages: style can be found in dropdown.less-->
+                            <li class="dropdown tasks-menu usermessages" id="inboxmessage">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    
+                                    <i class="fa fa-noti fa-messages"></i>
+                                </a>
+
+                                <ul class="dropdown-menu ul-usermessages pop_up">
+                                    
+                                    <li class="header">Messages</li>
+                                    <li>
+                                        <!-- inner menu: contains the actual data -->
+                                        <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 200px;">
+                                            <ul class="menu" style="overflow: hidden; width: 100%; height: 200px;" id="inboxmessagespace">
+                                                
+                                                <div style="margin: 60px 0px;" align="center"><img title="loading ..." src="https://www.static-contents.youth4work.com/images/y4w-20x20-5kb.gif" align="middle"></div>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li class="footer">
+                                            <a href="https://www.youth4work.com/User/inbox">See All Messages</a>
+                                    </li>
+                                </ul>
+                            </li>
+                                <li class="dropdown tasks-menu usernotification">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="line-height:26px !important">
+                                        
+                                        <i class="fa fa-noti fa-notification"></i>
+
+                                    </a>
+
+                                    <ul class="dropdown-menu ul-usernotification pop_up">
+                                        
+                                        <li class="header">Notification</li>
+                                        <li>
+                                            <!-- inner menu: contains the actual data -->
+                                            <div class="slimScrollDiv" style="position: relative; overflow: hidden; width: auto; height: 200px;">
+                                                <ul class="menu notify_dtl" style="overflow: hidden; width: 100%; height: 200px;">
+                                                    <li>
+                                                        <div style="margin: 60px 0px;" align="center"><img title="loading ..." src="https://www.static-contents.youth4work.com/images/y4w-20x20-5kb.gif" align="middle"></div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="footer">
+                                                <a href="https://www.youth4work.com/User/notification">View all</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                    <!-- Notifications: style can be found in dropdown.less -->
+                    <!-- User Account: style can be found in dropdown.less -->
+                            <li class="dropdown user user-menu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="padding-bottom: 10px;">
+                                    <i class="glyphicon glyphicon-user">
+                                        <img class="img-circle" alt="User Image" src="https://www.youth4work.com/Images/Users/User-default-image-unknown.png" style="width: 20px; height: 20px; margin-right: 0px; margin-bottom: 5px;" />
+                                    </i>
+                                    <span style="color: rgba(255, 255, 255, 0.8); ">Bandi <i class="caret"></i></span>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <!-- User image -->
+                                    <li class="user-header bg-light-blue">
+                                        <img class="img-circle" alt="User Image" src="https://www.youth4work.com/Images/Users/User-default-image-unknown.png" style="width: 40%" />
+                                        <p>
+                                            
+                                            Bandi Krishna
+                                        </p>
+                                    </li>
+                                    <!-- Menu Body -->
+                                    <li class="user-body">
+                                        <div align="center">
+                                                <a id="hlnkdashboard" href="https://www.youth4work.com/User/Default" class="btn btn-primary btn-flat" style="position: relative;">
+                                                    Dashboard
+                                                </a>
+                                        </div>
+                                    </li>
+                                    <!-- Menu Footer-->
+                                    <li class="user-footer">
+
+
+                                            <div class="col-xs-4 text-center" style="padding:0px;">
+                                                <a href="https://www.youth4work.com/y/bandikrishna007">My Profile</a>
+                                            </div>
+                                            <div class="col-xs-4 text-center" style="padding:0px;">
+                                                <a href="https://www.youth4work.com/User/EditProfile">Edit Profile</a>
+                                            </div>
+                                            <div class="col-xs-4 text-center" style="padding:0px;">
+                                                <a class="" href="/Master/LogOut?lang=">Sign Out</a>
+                                            </div>
+                                    </li>
+                                </ul>
+                            </li>
+                    </ul>
+                </div>
+
+            </nav>
+        </div>
+        <div id="slideLeftMenu" class="left-menu hidden-lg hidden-md slideLeftMenu" style="position:relative;">
+            <div class="disable-header-menu hide" style="top: 0px;right: 0px;height: 60px;left: 0px;position: fixed;z-index: 99999999;"></div>
+            <div class="clearfix">
+                <ul class="list-unstyled">
+                    <li style="padding: 0px; margin: 0px;">
+                        <nav class="navbar navbar-static-top left-slider" role="navigation" style="margin: 0px;height: 40px;">
+                            <div class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button" style="position: relative;">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </div>
+                        </nav>
+                        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#lm-collapseOne" style="padding: 0px;margin-left: 0px;">
+                            <div class="h-domain-name">
+                                <div class="h-logo y4wMain">&nbsp;</div>
+                                
+                            </div>
+                        </a>
+                        <div id="lm-collapseOne" class="panel-collapse collapse hide-left">
+                            <ul class="list-unstyled">
+                                
+                                <li>
+                                    <a href="https://www.cos.youth4work.com/" style="padding: 0px">
+                                        <div class="h-domain-name">
+                                            <div class="h-logo y4wCos">&nbsp;</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://www.prep.youth4work.com/" style="padding: 0px">
+                                        <div class="h-domain-name">
+                                            <div class="h-logo y4wPrep">&nbsp;</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://www.university.youth4work.com/" style="padding: 0px">
+                                        <div class="h-domain-name">
+                                            <div class="h-logo y4wUniv">&nbsp;</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.ed.youth4work.com/" style="padding: 0px;">
+                                        <div class="h-domain-name">
+                                            <div class="h-logo y4wEdu">&nbsp;</div>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </li>
+                        <li class="bg-light-blue hide-left">
+                            <a href="https://www.youth4work.com/User/Default">
+
+                                <img class="img-circle" alt="User Image" src="https://www.youth4work.com/Images/Users/User-default-image-unknown.png" style="width: 40%" />
+
+                            </a>
+                            <p>
+                                Bandi Krishna
+                            </p>
+                        </li>
+                        <li class="hide-left" style="text-align: center;vertical-align: middle;">
+                            <ul class="list-inline">
+                                <li style="vertical-align: middle; margin-right: 45px;" class="usermessages">
+
+                                        <a href="https://www.youth4work.com/User/inbox">
+                                            <i class="fa fa-noti fa-messages"></i>
+                                        </a>
+                                </li>
+                                <li style="color: #004481; vertical-align: middle; padding: 0px;">|</li>
+                                <li style="vertical-align: middle; margin-left: 45px; padding: 0px;" class="usernotification">
+
+                                        <a href="https://www.youth4work.com/User/notification">
+                                            <i class="fa fa-noti fa-notification"></i>
+                                        </a>
+                                </li>
+                            </ul>
+                        </li>
+                            <li class="hide-left top-border">
+                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#stcollapseOne">
+                                    <div>Test Yourself<b class="caret"></b></div>
+                                </a>
+                                <div id="stcollapseOne" class="panel-collapse collapse">
+                                    <ul class="list-unstyled">
+                                        <li><a href="https://www.youth4work.com/onlinetalenttest">yTests</a></li>
+                                        <li><a href="https://www.prep.youth4work.com/">Prep Tests</a></li>
+                                        <li><a href="https://www.youth4work.com/PsychometricTest/Instruction/1">Psychometric Test</a></li>
+                                        <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-talents">Talent Ranks</a></li>
+                                        <li><a href="https://www.youth4work.com/User/Discussion">Discussions</a></li>
+                                        <li><a href="https://www.ed.youth4work.com/">Talent Courses</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="hide-left top-border">
+                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#stcollapseTwo">
+                                    <div>For Jobs <b class="caret"></b></div>
+                                </a>
+                                <div id="stcollapseTwo" class="panel-collapse collapse">
+                                    <ul class="list-unstyled">
+                                        <li><a href="https://www.youth4work.com/onlinetalenttest">Talent Tests</a></li>
+                                        <li><a href="https://www.cos.youth4work.com/Jobs">Search Jobs</a></li>
+                                        <li><a href="https://www.youth4work.com/User/EditProfile">Update Profile</a></li>
+                                        <li><a href="https://www.cos.youth4work.com/Find">Find Employers</a></li>
+                                        <li><a href="https://www.cos.youth4work.com/Insights">Job Insights</a></li>
+                                        <li><a href="https://www.ed.youth4work.com/">Certification Courses</a></li>
+                                        <li><a href="https://www.youth4work.com/User/yTalReport">Premium Services</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="hide-left top-border">
+                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#stcollapseThree">
+                                    <div>My College <b class="caret"></b></div>
+                                </a>
+                                <div id="stcollapseThree" class="panel-collapse collapse">
+                                        <ul class="list-unstyled">
+                                            <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering">Alumni &amp; Students</a></li>
+                                            <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering/forum">College Forums</a></li>
+                                            <li><a href="https://www.university.youth4work.com/Vaagdevi-College-of-Engineering/study">News &amp; Study Materials</a></li>
+                                            <li><a href="https://www.youth4work.com/Talent/FilterTalent?college=Vaagdevi-College-of-Engineering&hasresume=0&isemailverified=0&ismobileverified=0&ytested=0">College Rankboard</a></li>
+                                            <li><a href="https://www.ed.youth4work.com">Certification Courses</a></li>
+                                        </ul>
+                                </div>
+                            </li>
+                            <li class="hide-left top-border">
+                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#stcollapseFour">
+                                    <div>My Profile <b class="caret"></b></div>
+                                </a>
+                                <div id="stcollapseFour" class="panel-collapse collapse">
+                                        <ul class="list-unstyled">
+                                            <li><a href="https://www.youth4work.com/User/Default">Dashboard</a></li>
+                                            <li><a href="https://www.youth4work.com/y/bandikrishna007">Public Profile</a></li>
+                                            <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-portfolio">Blogs &amp; Portfolio</a></li>
+                                            <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-talents">My Ranks</a></li>
+                                            <li><a href="https://www.youth4work.com/y/bandikrishna007/Bandi-Krishna-popularity">Popularity</a></li>
+                                            <li><a href="https://www.youth4work.com/User/EditProfile">Update Profile</a></li>
+                                            <li><a href="https://www.youth4work.com/User/yKnown"><span>yKnown</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/yTalReport"><span>yTal Report</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/Jobs"><span>Jobs</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/Inbox"><span>Inbox</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/notification"><span>Notification</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/EntryBlog"><span>Post Blog</span></a></li>
+                                            <li><a href="https://www.youth4work.com/User/EntryPortfolio"><span>Create Portfolio</span></a></li>
+                                        </ul>
+                                </div>
+                            </li>
+                        <li class="hide-left top-border">
+                            <a class="" href="/Master/LogOut?returnurl=%20&amp;lang=" style="margin-left: 20px;">Sign Out</a>
+                        </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+</div>
+<div style="clear:both"></div>
+
+<style type="text/css">
+    .header-body > .header .slideLeftMenu {
+        overflow-y: hidden !important;
+    }
+</style>
+<script async src="https://www.static-contents.youth4work.com/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+    var userid = "3849730";
+    var usertype = "ST";
+    var newsLn = ("").length;
+    var useridforredirect;
+    var catsuccess;
+    var idsuccess;
+    var titlesuccess;
+    var itemidsuccess;
+    var companynamesuccess;
+    var locationnamesuccess;
+
+
+    $(window).scroll(function () {
+        var currentScroll = parseInt($(this).scrollTop());
+
+        if (currentScroll > 59) {
+            $(".header > .clearfix").addClass("fixedheader");
+        }
+        else {
+            $(".header > .clearfix").removeClass("fixedheader");
+        }
+
+        if (currentScroll > 59) {
+            $("#slideLeftMenu").addClass("l-menu-top");
+        }
+        else {
+            $("#slideLeftMenu").removeClass("l-menu-top");
+        }
+    });
+
+    $(function () {
+        //$('.navbar-static-top > div').append('<div class="disable-menu"></div>');
+        $('.dropdown-menu').click(function (e) {
+            e.stopPropagation();
+        });
+
+        $(".navbar-btn").click(function () {
+            $(".left-menu").toggleClass("slideLeftMenu", 1000);
+        });
+
+        $(".left-menu > div > ul.list-unstyled > li > .accordion-toggle").click(function () {
+            var curr = false;
+            if ($(this).parent().hasClass("active"))
+            {
+                curr = true;
+            }
+            $('.panel-collapse.in').collapse('hide');
+            $(".left-menu > div > ul.list-unstyled > li.active").removeClass("active");
+            if (curr == false) {
+                $(this).parent().toggleClass("active");
+            }
+        });
+
+        $(".h-menu > li").mouseover(function () {
+            var tot = parseInt($(this).offset().left) + parseInt($(this).width()) + 17;
+            var top = (parseInt($(this).offset().top) + parseInt($(this).height()));
+            $(this).find(".sub-menu").css("width", tot + "px").css("top", top - $(window).scrollTop() + "px");
+
+        });
+
+        $("#inboxmessage").click(function () {
+            var margin = $(this).css("height");
+            $("#inboxmessagespace").html("<div style='margin: " + margin + " 0px;' align='center'><img title='loading ...' src='https://www.static-contents.youth4work.com/images/y4w-20x20-5kb.gif' align='middle'></div>");
+            $.post('/Master/gety4wMessages/wCq3BzIISaA=', null, function (data) {
+                $("#inboxmessagespace").html(data);
+                $.post('/Master/readMessages', null, function (data) {
+                    //$(".usermessages > .dropdown-toggle > .label-warning").remove();
+                });
+            });
+        });
+        $(".usernotification").click(function () {
+            var margin = $(this).css("height");
+            $(".usernotification").find(".dropdown-menu").find(".menu").html("<div style='margin: " + margin + " 0px;' align='center'><img title='loading ...' src='https://www.static-contents.youth4work.com/images/y4w-20x20-5kb.gif' align='middle'></div>");
+            $.post('/Master/gety4wNotification', null, function (data) {
+                $(".usernotification").find(".dropdown-menu").find(".menu").html(data);
+                $.post('/Master/readNotifications', null, function (data) {
+                    $(".usernotification > .dropdown-toggle > .label-warning").remove();
+                });
+            });
+        });
+    })
+
+
+    function messagereaduser(id, userid, utype) {
+
+        useridforredirect = userid;
+        $.post('/Master/InsertintoMessageReadTable', { id: id }, function (data) {
+            onSuccReadMessage(data);
+        });
+    }
+
+    function onSuccReadMessage(resp) {
+
+        if (usertype == 'ST') {
+            window.location.href = 'https://www.youth4work.com/User/Inbox?v=1_' + useridforredirect;
+        }
+        else if (usertype == "CP") {
+            window.location.href = 'https://www.youth4work.com/Company/Inbox?v=1_' + useridforredirect;
+        }
+    }
+
+    function updateAndRedirectUrl(UserId, id, category, title, itemid, companyname, locationname) {
+
+        catsuccess = category.replace(/_/g, " ");
+        idsuccess = id;
+        itemidsuccess = itemid;
+        titlesuccess = title.replace(/_/g, " ");
+        companynamesuccess = companyname.replace(/_/g, " ");
+        locationnamesuccess = locationname.replace(/_/g, " ");
+        $.post('/Master/InsertintoReadTable', { id: id, category: category, UserId: UserId }, function (data) {
+            //onSuccReadNotificaton(data);
+        });
+    }
+    function onSuccReadNotificaton(resp) {
+
+        if (catsuccess == "YScore") {
+            var talent = safeurl(locationnamesuccess.trim());
+            window.location.href = 'https://www.youth4work.com/Talent/' + talent;
+        }
+        else if (catsuccess == "PREQ") {
+            var projectname = safeurl(locationnamesuccess.trim());
+            window.location.href = 'https://www.youth4work.com/projects/Internship-' + idsuccess + '-' + projectname + '/' + itemidsuccess + '-' + companynamesuccess;
+        }
+        else if (catsuccess == "Final") {
+            var projectname = safeurl(locationnamesuccess.trim());
+            window.location.href = 'https://www.youth4work.com/projects/Internship-' + idsuccess + '-' + projectname + '/' + itemidsuccess + '-' + companynamesuccess;
+        }
+        else if (catsuccess == "project") {
+            var t1 = safeurl(titlesuccess.trim());
+            if (titlesuccess.length > 100) {
+                window.location.href = 'https://www.youth4work.com/projects/Internship-' + idsuccess + '-' + t1.Substring(0, 100);
+            }
+            else {
+                window.location.href = 'https://www.youth4work.com/projects/Internship-' + idsuccess + '-' + t1;
+            }
+
+        }
+        else if (catsuccess == "job") {
+            var cn = safeurl(companynamesuccess.trim());
+            var t1 = safeurl(titlesuccess.trim());
+            var lc1 = safeurl(locationnamesuccess.trim());
+            window.location.href = 'https://www.cos.youth4work.com/' + cn + '/jobs/' + idsuccess + '-' + t1 + '-in-' + lc1;
+
+        }
+        else if (catsuccess == "ST" || catsuccess == "TC" || catsuccess == "CP") {
+            if (catsuccess == "ST") {
+                window.location.href = 'https://www.youth4work.com/y/' + safeurl(companynamesuccess.replace(/ /g, "_"));
+            }
+            else if (catsuccess == "CP") {
+                window.location.href = 'https://www.cos.youth4work.com/' + safeurl(locationnamesuccess.trim());
+            }
+            else if (catsuccess == "TC") {
+                window.location.href = 'https://www.ed.youth4work.com/' + safeurl(companynamesuccess.replace(/ /g, "_"));
+            }
+        }
+        else if (catsuccess == "CFollower") {
+            window.location.href = 'https://www.youth4work.com/y/' + safeurl(companynamesuccess);
+        }
+        else if (catsuccess == "CProjectApplicants") {
+            var t1 = safeurl(titlesuccess.trim());
+            if (titlesuccess.length > 100) {
+                window.location.href = 'https://www.youth4work.com/projects/Internship-' + itemidsuccess + '-' + t1.Substring(0, 100) + '/' + idsuccess + '-' + safeurl(companynamesuccess);
+            }
+            else {
+                window.location.href = 'https://www.youth4work.com/projects/Internship-' + itemidsuccess + '-' + t1 + '/' + idsuccess + '-' + safeurl(companynamesuccess);
+            }
+        }
+        else if (catsuccess == "CJobApplicants") {
+            window.location.href = 'https://www.youth4work.com/Company/JobPosting';
+        }
+    }
+</script>
+
+
+            
+        </div>
+        <div id="content-design">
+                <div class="container" style="padding-top:15px">
+                    
+
+
+
+<div class="varify success" style="min-height: 400px;" align="center">
+    <div class="container y-hd item-box varify-width" style="margin-top: 30px; margin-bottom: 30px; background-color: #fff; padding: 0;">
+        <div style="padding: 0px;background-color: #f6f6f6;line-height: 60px;">
+            <div class="normal-title" style="font-size: 16px;color: #666;">Verify Your Email</div>
+            <div class="success-title" style="font-size: 16px;color: #666;">Thanks for email verification.</div>
+        </div>
+        <div class="padding-div" style="padding: 20px; word-break:break-word;">
+            <div>
+                <img class="normal-img" id="Image5" src="https://www.youth4work.com/Images/User-email-address-update.png" width="100" />
+                <img class="success-img" id="Image5" src="https://www.youth4work.com/Images/User-email-address-verification.png" width="100" />
+            </div>
+            <div style="font-size: 14px;min-height:56px;">
+                <div class="normal-text">A verification code was sent to your email Id <span style='color: #428bca;'>bandikrishna007@gmail.com</span> <br> You must verify your email id by entering a code sent in a mail box</div>
+                <div class="error-text">Invalid verification code.</div>
+            </div>
+            <div style="padding-bottom: 0px;">
+<form action="/Users/VerifyUser" class="form-horizontal" method="post">                    <div style="margin: 0px; padding-bottom: 20px;">
+                        <input type="text" class="form-control verify-text" id="inputEmail7" name="txtKey" value="4105768e-0a31-40f8-9e6c-6c7ff52cb72a" placeholder="Enter Confirmation Code" required="required" />
+                        <div class="success-msg" style="line-height: 50px;color: #008800; font-size: 16px;">
+                            Email verified Successfully.
+                        </div>
+                    </div>
+                    <div style="margin: 0px; min-height: 50px;">
+                        <button class="btn btn-primary btn-block verify-btn" type="submit" style="text-transform:uppercase;">Verify Now</button>
+                    </div>
+</form>            </div>
+            
+        </div>
+    </div>
+</div>
+
+<style type="text/css">
+
+    @media screen and (max-width:400px){
+        .varify-width{
+            width:auto;
+        }
+    }
+    @media screen and (min-width:400px){
+        .varify-width{
+            width:360px;
+        }
+    }
+
+    .container > .padding-div > div {
+        padding: 0px;
+        padding-bottom: 20px;
+    }
+
+    .verify-btn, .verify-text {
+        max-width: 300px;
+        min-height: 50px;
+    }
+
+    .error-text {
+        color: #FF0000;
+    }
+
+    .success .normal-text, .success .verify-btn, .success .verify-text,
+    .normal .success-msg, .error .success-msg, .normal .error-text, .success .error-text,
+    .error .normal-text, .success-img, .success .normal-img, .success-title, .success .normal-title, .success .normal-error-text {
+        display: none;
+    }
+
+    .normal > .normal-div, .error > .error-div, .success .success-msg, .error .error-text, .success .success-img, .normal-img, .success .success-title, .normal-title, .normal-error-text {
+        display: block;
+    }
+
+    .normal .verify-text {
+        border-color: #66afe9;
+    }
+
+    .error .verify-text {
+        border-color: #FF0000;
+    }
+</style>
+                </div>
+
+        </div>
+        <div id="footer-design" class="y4wfooter">
+
+
+<div class="row" style="background-color: #0b6ec7;margin:0px">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="disable-bottom-menu hide" style="position: absolute;right: 0px;bottom: 0px;left: 0px;top: 0px;z-index: 9999999;"></div>
+                <div class="row" style="margin: 15px 0px 0px 0px; ">
+                    <div class="col-md-6" style="padding:0px">
+                        <a href="https://kb.youth4work.com/tagged/y4w-media" class="fontcolor">About Us</a><span style="color: #e6e6e6">&nbsp;|&nbsp;</span>
+                        <a href="https://kb.youth4work.com/tagged/press" class="fontcolor">Press</a><span style="color: #e6e6e6">&nbsp;|&nbsp;</span>
+                        <a href="https://www.youth4work.com/ContactUs" class="fontcolor">Contact Us</a><span style="color: #e6e6e6">&nbsp;|&nbsp;</span>
+                        <a href="https://www.cos.youth4work.com/youth4work/jobs" class="fontcolor">Careers</a><span style="color: #e6e6e6">&nbsp;|&nbsp;</span>
+                        <a href="https://www.youth4work.com/site_maps" class="fontcolor">Sitemap</a>
+                    </div>
+                    <div class="col-md-6 containalign" style="color: #e6e6e6;padding:0px;">
+                        <ul class="list-inline lftmargin" style="margin-bottom:0px;color: #fff;">
+                                <li>Query:</li>
+                                    <li style="padding: 0px; "><span>+91 11 49096531</span>&nbsp;&nbsp;or</li>
+                                        <li style="color: #e6e6e6;text-decoration: none;">support@youth4work.com</li>
+                                <li class="site-Languages">
+
+<style type="text/css">
+    .site-Languages > .open > .dropdown-toggle {
+        background-color: #00599D !important;
+        color: #fff !important;
+    }
+
+    .site-Languages > .open a {
+        color: #fff !important;
+    }
+
+    .site-Languages .dropdown-menu {
+        width: 435px !important;
+        left: -180px !important;
+        padding: 0px;
+        border-bottom: 2px solid #00599D;
+        background-color: #00599D;
+        margin-top: 1px;
+    }
+
+    .site-Languages .allLanguage > .dropdown-toggle {
+        width: 60px;
+        background-color: #f9f9f9;
+        color: #087ccd;
+        text-align: left;
+        padding: 3px 15px 3px 5px;
+        font-size: 11px;
+        border-radius: 2px;
+    }
+
+    .site-Languages .ul-allLanguage {
+        margin: 0px;
+        margin-top: -3px;
+        background-color: #00599D;
+    }
+
+        .site-Languages .ul-allLanguage li {
+            color: #fff;
+            font-size: 11px;
+            cursor: pointer;
+            padding: 5px 20px 5px 10px;
+            text-align: left;
+        }
+
+            .site-Languages .ul-allLanguage li.active {
+                background-color: rgba(0, 0, 0, 0.1);
+            }
+
+            .site-Languages .ul-allLanguage li:hover {
+                background-color: rgba(0, 0, 0, 0.1);
+                text-decoration: underline;
+            }
+
+            .site-Languages .ul-allLanguage li > span {
+                float: right;
+            }
+
+    .show-r-div > .dropdown-menu {
+        width: 290px;
+    }
+
+    .allLanguage > .dropdown-menu > li > div {
+        width: 100%;
+    }
+
+    .show-r-div > .dropdown-menu > li > div {
+        width: 50% !important;
+    }
+
+    .show-r-div .border-r {
+        border-right: 1px solid #fff;
+    }
+
+    a.anchorClass {
+        display: block;
+        height: 30px;
+        padding: 5px 20px 5px 10px;
+    }
+
+    @media(max-width: 480px)
+    {
+        .site-Languages .dropdown-menu {
+            width: 290px !important;
+        }
+    }
+</style>
+
+<div class="dropdown allLanguage">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>&nbsp;<span id="currentLang" style="text-transform:uppercase;">EN</span>
+    </a>
+    <ul class="dropdown-menu" style="width:290px;left:-90px">
+        <li>
+            <div class="pull-left no-padding border-r">
+                <div class="clearfix">
+                    
+                    <div class="col-md-12" style="padding:0px">
+                        <ul class="list-unstyled ul-allLanguage col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ar/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Arabic<span style='float:right'>AR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/bn/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Bengali<span style='float:right'>BN</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/de/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">German<span style='float:right'>DE</span></a></li>
+                                <li class="class=active col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">English<span style='float:right'>EN</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/es/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Spanish<span style='float:right'>ES</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/fr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">French<span style='float:right'>FR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/gu/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Gujarati<span style='float:right'>GU</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/hi/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Hindi<span style='float:right'>HI</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/it/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Italian<span style='float:right'>IT</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ja/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Japanese<span style='float:right'>JA</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/kn/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Kannada<span style='float:right'>KN</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ml/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Malayalam<span style='float:right'>ML</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/mr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Marathi<span style='float:right'>MR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/or/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Oriya<span style='float:right'>OR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/pa/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Punjabi<span style='float:right'>PA</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/pt/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Portuguese<span style='float:right'>PT</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ru/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Russian<span style='float:right'>RU</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ta/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Tamil<span style='float:right'>TA</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/te/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Telugu<span style='float:right'>TE</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/tr/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Turkish<span style='float:right'>TR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/ur/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Urdu<span style='float:right'>UR</span></a></li>
+                                <li class=" col-md-4 col-sm-6 col-xs-6" style="padding:0px;"><a href='/zh/Users/VerifyUser?Key=4105768e-0a31-40f8-9e6c-6c7ff52cb72a' class="anchorClass">Mandarin<span style='float:right'>ZH</span></a></li>
+                        </ul>
+                    </div>
+                    
+                </div>
+            </div>
+        </li>
+    </ul>
+    
+</div>
+
+
+
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row" style="margin:0px"><div class="col-md-12" style="border-bottom: 1px solid #ffffff; height: 15px;"></div></div>
+                <div class="row" style="color:#ffffff; padding:5px 0px 10px 0px">
+                    <div class="col-sm-6 col-md-3" style="line-height: 1.6em; vertical-align: top">
+                        <ul class="list-unstyled" style="padding-left: 0px; padding-top: 5px; font-weight: bold; margin-bottom:0px">
+                            <li>
+                                <a href="https://www.youth4work.com/y" style="font-weight: bold; color:#fff">Youth</a>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled" style="padding-top:5px">
+                            <li>
+                                <a class="fontcolor" href="https://www.youth4work.com/onlinetalenttest">yTests</a>
+                            </li>
+                            <li>
+                                <a class="fontcolor" href="https://www.cos.youth4work.com/Jobs">Search Jobs</a>
+                            </li>
+                            <li>
+                                <a class="fontcolor" href="https://www.youth4work.com/talent/forum">Talent Forums</a>
+                            </li>
+                            <li>
+                                <a class="fontcolor" href="https://www.yc.youth4work.com/">yChallenges</a>
+                            </li>
+                            <li>
+                                <a class="fontcolor" href="https://www.sarkari-naukri.youth4work.com/">Sarkari</a>&nbsp;
+                                <a class="fontcolor" href="https://www.sarkari-naukri.youth4work.com/government-jobs/">naukri</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/profile" class="fontcolor">Recent Users</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/yx" class="fontcolor">yX Stories</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3" style="line-height: 1.6em; vertical-align: top">
+                        <ul class="list-unstyled" style="padding-left: 0px; padding-top: 5px; font-weight: bold; margin-bottom: 0px">
+                            <li>
+                                <a href="https://www.cos.youth4work.com/" style="font-weight: bold; color: #fff">Employers</a>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled" style="padding-top: 5px">
+                            <li>
+                                <a href="https://www.youth4work.com/talent/" class="fontcolor">Hire Pre-assessed Profiles</a>
+                            </li>
+                            <li>
+                                <a href="https://www.cos.youth4work.com/postjobs" class="fontcolor">Post Jobs For Free</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/corporate-assessment" class="fontcolor">yAssess - Custom Assessment</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/employer-services" class="fontcolor">
+                                    Subscription Plans
+                                </a>
+                            </li>
+                        </ul>
+                        <ul style="padding-left: 0px; font-weight: bold; margin-bottom: 0px">
+                            Blogs
+                        </ul>
+                        <ul class="list-unstyled" style="padding-top:5px">
+                            <li>
+                                <a href="http://www.blogs.youth4work.com/" class="fontcolor">Help Blogs</a>
+                            </li>
+                            <li>
+                                <a href="https://kb.youth4work.com" class="fontcolor">Knowledge Base</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3" style="line-height: 1.6em; vertical-align:top">
+                        <ul class="list-unstyled" style="padding-left: 0px; padding-top: 5px;  margin-bottom: 0px">
+                            <li>
+                                <a href="https://www.university.youth4work.com/" style="font-weight: bold; color: #fff">Colleges</a>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled" style="padding-top: 5px">
+                            <li>
+                                <a href="https://www.university.youth4work.com/home" class="fontcolor">Search Colleges</a>
+                            </li>
+                            <li>
+                                <a href="https://www.university.youth4work.com/Study-Material" class="fontcolor">Study Materials</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/new-in-college/" class="fontcolor">College News</a>
+                            </li>
+                            <li>
+                                <a href="https://www.youth4work.com/college-forum" class="fontcolor">College Forums</a>
+                            </li>
+                        </ul>
+                        <ul style="padding-left: 0px; padding-top:10px;border-bottom:1px solid #fff;"></ul>
+                        <ul class="list-unstyled" style="padding-top:5px">
+                            <li>
+                                <a href="https://kb.youth4work.com/yapp-youth4work-affiliate-partner-program-a49ce410e3b8" class="fontcolor">Become an affiliate</a>
+                            </li>
+                            <li>
+                                <a href="https://kb.youth4work.com/branding-promotions-with-youth4work-93b3cfcceda1" class="fontcolor">Advertise with us</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3" style="line-height: 1.6em; vertical-align: top">
+                        <ul class="list-unstyled" style="padding-left: 0px; padding-top: 5px;  margin-bottom: 0px">
+                            <li>
+                                <a class="fontcolor" href="https://www.prep.youth4work.com/" style="font-weight: bold;">Prep Tests</a>
+                            </li>
+                        </ul>
+                        <ul class="list-unstyled" style="padding-left: 0px; padding-top: 5px;  margin-bottom: 0px">
+                            <li>
+                                <a class="fontcolor" href="https://www.ed.youth4work.com/" style="font-weight: bold;">Online Courses</a>
+                            </li>
+                        </ul>
+                        <ul style="padding-bottom: 2px; padding-left: 0px; padding-top: 5px;border-bottom:1px solid #fff;"></ul>
+                        <ul class="list-unstyled"></ul>
+                        <ul class="list-unstyled">
+                            <li style="width: 50%">
+                                <a class="footer-menu-sociallink footer-menu-googlestore img-responsive" href="https://play.google.com/store/apps/dev?id=4804375862035154346&hl=en" style="padding:0px; margin-bottom:10px">
+                                </a>
+                            </li>
+                            <li style="width: 50%">
+                                <a class="footer-menu-sociallink footer-menu-applestore img-responsive" href="https://itunes.apple.com/us/developer/youth4work/id1032749142" style="padding:0px">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row" style="background-color: #00599D;margin:0px">
+    <div class="container mob-container">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" align="center" style="margin-bottom: 0px; padding: 15px 0px 0px 0px">
+            <div class="col-sm-6 col-md-5" style="color: #e6e6e6;margin-left: -15px;margin-right:-10px;">
+                &copy; 2018 Youth4work. <a href="https://www.youth4work.com/terms" target="_blank" rel="nofollow" style="color: #e6e6e6; text-decoration:none">Terms and Privacy Policy</a>
+            </div>
+            <div class="col-sm-1 col-md-2 mob-padding-10-0" style="margin-left:-20px; margin-top:5px; height:10px;">
+                
+            </div>
+            <div class="col-sm-5 col-md-5" style="padding-left:10px; text-align: right;">
+                <ul class="list-inline">
+                    <li style="color: #e6e6e6; top: -8px; position: relative;padding-right:15px">Stay Connected</li>
+                        <li>
+                            <a href="https://www.facebook.com/Youth4Work" target="_blank" class="footer-menu-sociallink footer-menu-y4wfacebook"></a>
+                        </li>
+                            <li>
+                                <a href="https://plus.google.com/+Youth4work_com" target="_blank" class="footer-menu-sociallink footer-menu-y4wgoogleplus"></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/Youth4work" target="_blank" class="footer-menu-sociallink footer-menu-y4wtwitter"></a>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+            <div class="modal fade" id="MasterLogin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+<div class="modal-dialog">
+    <div class="modal-content">
+
+        <div class="panel panel-default" style="opacity: .85;">
+            <div class="panel-heading" style="padding:5px 10px;height:35px;">
+                <div class="row">
+                   <div class="col-sm-10 col-md-4">
+                    <span class="glyphicon glyphicon-lock"></span>Sign In<span id="divbtn" style="display:none; padding-left:5px;"><img src="/img/ajax-loader.gif" alt="wait..." /></span>
+                   </div>
+                    <div class="col-sm-2 col-md-offset-4 col-md-4">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+               </div> 
+            </div>
+            <div class="panel-body">
+<form action="/Master/Login?returnurl=https%253a%252f%252fwww.youth4work.com%252fUsers%252fVerifyUser%253fKey%253d4105768e-0a31-40f8-9e6c-6c7ff52cb72a" class="form-horizontal" method="post">                    <div class="form-group">
+                        <label for="inputEmail4" class="col-sm-3 control-label">
+                            Email
+                        </label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" id="inputEmail4" name="UserName" placeholder="Email" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputPassword4" class="col-sm-3 control-label">
+                            Password
+                        </label>
+                        <div class="col-sm-9">
+                            <input type="password" class="form-control" id="inputPassword4" name="Password" placeholder="Password" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-3"></div>
+                        <div class="col-md-9" style="padding: 0px;">
+                            <div class="col-md-6">
+                                <div class="cleafix" style="display: block;">
+                                    <div style="float: left;"><input name="RememberMe" checked="checked" type="checkbox"></div>
+                                    <label style="color: rgb(102, 102, 102); float: left; font-weight: normal; font-size: 13px; margin-left: 5px;">Remember me</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-sm-5 col-xs-6 pull-right">
+                                <button class="btn  btn-primary" onclick="showloadernew('divbtn')" type="submit" style="width:100% !important;">Login</button>
+                                <input name="doOperation" value="login" type="hidden">
+                            </div>
+                        </div>
+                    </div>
+</form>            </div>
+
+            <div class="panel-footer">
+                <div class="form-group  last" style="margin-bottom: 0px;">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            New to Youth4work? <a href="https://www.youth4work.com/Users/Register?returnurl=https%3a%2f%2fwww.youth4work.com%2fUsers%2fVerifyUser%3fKey%3d4105768e-0a31-40f8-9e6c-6c7ff52cb72a">Sign Up Free</a>
+                        </div>
+                        <div class="col-md-offset-2 col-md-4 col-sm-offset-3 col-sm-3" align="right">
+                            <a style="cursor:pointer" href="https://www.youth4work.com/Users/forgot-password?returnurl=https%3a%2f%2fwww.youth4work.com%2fUsers%2fVerifyUser%3fKey%3d4105768e-0a31-40f8-9e6c-6c7ff52cb72a">Forgot password ??</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script type="text/javascript">
+    function showloadernew(div) {
+        if ($("#inputEmail4").val() != "" && $("#inputPassword4").val() != "") {
+            $("#" + div).show();
+        }
+    }
+</script>
+
+            </div>
+            
+            <div class="modal fade" id="loading-img" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false" style="background-color: rgba(254, 254, 254, .8);">
+                <div class="modal-dialog sm-modal">
+                    <div class="modal-body" style="padding: 0 20px">
+                        <div class="col-md-12" style="position: relative; padding: 0px; vertical-align: middle; float:none;line-height: 500px;" align="center">
+                            <img style="margin:20px;" src="https://www.static-contents.youth4work.com/images/y4w_loading_100_100.gif" alt="Uploading…" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        body {
+            height: 1000px;
+        }
+
+        .list-inline > li {
+            padding-left: 0px;
+        }
+
+        #header-wrap {
+            position: fixed;
+            z-index: 9;
+        }
+
+        /*.cse input.gsc-input, input.gsc-input {
+                background-image: url("/img/glyph/gray-classic-search-icon.png") !important;
+                background-repeat: no-repeat;
+                background-color: #fff;
+            }*/
+
+        /*.cse input.gsc-input:focus, input.gsc-input:focus {
+                    background-image: none !important;
+                }*/
+        .gsc-context-box .gsc-col {
+            white-space: pre-line;
+        }
+
+        .cse input.gsc-input, input.gsc-input {
+            background-image: none !important;
+        }
+
+        .web-no-padding {
+            padding: 0px;
+        }
+
+        @media screen and (min-width: 480px) {
+            .lftmargin {
+                margin-left: 0px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .copyright {
+                padding: 0px 0px 10px 30px;
+            }
+
+            .containalign {
+                padding-left: 30px !important;
+            }
+
+            .right-side-no-padding {
+                padding: 0px !important;
+            }
+
+            .web-no-padding {
+                padding: 0px 15px;
+            }
+
+            .mob-pull-left {
+                float: left;
+            }
+
+            .mob-pull-right {
+                float: right;
+            }
+
+            .lftmargin {
+                margin-left: -30px !important;
+            }
+        }
+    </style>
+    
+
+    <link href="/css/jquery.Jcrop.min.css" rel="stylesheet" />
+    <script async src="/js/jquery.Jcrop.min.js"></script>
+
+    <script type="text/javascript">
+
+        function translate_text(_text) {
+            _text = _text.toLowerCase();
+            if (_text == 'please enter the title.') {
+                return "Please enter the title.";
+            } else if (_text == 'please enter the company name.') {
+                return "Please enter the company name.";
+            } else if (_text == 'please select the type.') {
+                return "Please select the type.";
+            } else if (_text == 'please enter the duration.') {
+                return "Please enter the duration.";
+            } else if (_text == 'please select the duration.') {
+                return "Please select the duration.";
+            } else if (_text == 'email is not valid.') {
+                return "Email is not valid.";
+            } else if (_text == 'something might happened wrong, try again.') {
+                return "Something might happened wrong, try again.";
+            } else if (_text == 'something might happened wrong, please refresh the page.') {
+                return "Something might happened wrong, please refresh the page.";
+            }
+        }
+
+        function showAlert(status, message) {
+            if (status == 'hide') {
+                $("#model-alert .model-message").html('');
+                $("#model-alert .model-close").click();
+            }
+            else {
+                $("#model-alert .model-message").html(message);
+                $("#model-alert").modal({
+                    backdrop: 'static',
+                    keyboard: false
+                });
+            }
+        }
+        function isValidateExtension(fileUpload, uploadFileType) {
+            var allowedFiles = [".jpg", ".jpeg", ".gif", ".png", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".pdf", ".txt", ".zip", ".rar"];
+            if (uploadFileType == "pic") {
+                allowedFiles = [".jpg", ".jpeg", ".gif", ".png"];
+            }
+            else if (uploadFileType == "doc") {
+                allowedFiles = [".doc", ".docx", ".pdf", ".txt", ".zip", ".rar", ".xlsx", ".ppt"];
+            }
+
+            return true;
+        }
+
+        function hidegoogleTag() {
+            $("input.gsc-input").css("font-size", "12px");
+            $("input.gsc-input").attr("placeholder", "Search for Online Tests, Jobs, People, Ranked Talent Board");
+            $("input.gsc-input").css("background", "none");
+        }
+        function showImagePopup(itm) {
+            var srcPath = $(itm).attr("src");
+            $("#my-origin-image").attr("src", srcPath);
+
+            $("#profileImg").modal({
+                backdrop: 'static',
+                keyboard: false
+            });
+        }
+
+        function CheckLogin() {
+            if ('True' == 'True') {
+                return true;
+            }
+            else {
+                $("#MasterLogin").modal({
+                    backdrop: 'static',
+                    keyboard: false
+                });
+                return false;
+            }
+        }
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+           m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-16703189-2', 'youth4work.com');
+        ga('require', 'displayfeatures');
+        if ('true' === 'true') {
+            ga('set', 'userId', '3849730'); // Set the user ID using signed-in user_id.
+
+        }
+
+        ga('send', 'pageview');
+    </script>
+    <script type="application/ld+json">
+        {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "Youth4work",
+        "url" : "https://www.youth4work.com",
+        "logo": "https://www.youth4work.com/images/youth4work-logo.png",
+        "contactPoint" : [{
+        "@type" : "ContactPoint",
+        "telephone" : "+91 11 49096531",
+        "contactType" : "customer service"
+        }],
+        "sameAs" : [
+        "https://www.facebook.com/Youth4Work",
+        "https://plus.google.com/+Youth4work_com",
+        "https://twitter.com/Youth4work"
+        ]
+        }
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '580067208817359');
+        fbq('track', "PageView");
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=580067208817359&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+            <script>
+            window.intercomSettings = {
+                app_id: "lw0w9vsu",
+                user_id: '3849730',
+                name: "Bandi Krishna", // Full name
+                email: "bandikrishna007@gmail.com", // Email address
+                created_at: "1532170694", // Signup date as a Unix timestamp
+                hide_default_launcher: true,
+                "UserType" : "ST"
+            };
+        </script>
+        <script>(function () { $.post("/Master/logPagevigits", { url: window.location.href }); var w = window; var ic = w.Intercom; if (typeof ic === "function") { ic('reattach_activator'); ic('update', intercomSettings); } else { var d = document; var i = function () { i.c(arguments) }; i.q = []; i.c = function (args) { i.q.push(args) }; w.Intercom = i; function l() { var s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://widget.intercom.io/widget/lw0w9vsu'; var x = d.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); } if (w.attachEvent) { w.attachEvent('onload', l); } else { w.addEventListener('load', l, false); } } })()</script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.disable-menu').remove();
+        })
+    </script>
+   
+</body>
+
+</html>

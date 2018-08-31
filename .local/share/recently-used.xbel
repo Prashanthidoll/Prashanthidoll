@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/eswecha/Desktop/home.html" added="2018-07-31T05:16:23Z" modified="2018-07-31T08:51:04Z" visited="2018-07-31T05:16:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-07-31T08:51:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/asphalt.java" added="2018-08-23T06:24:04Z" modified="2018-08-23T07:10:56Z" visited="2018-08-23T06:24:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-23T07:10:56Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/matrix.java" added="2018-08-24T05:02:57Z" modified="2018-08-24T05:03:14Z" visited="2018-08-24T05:02:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-24T05:03:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/12/matrix.java" added="2018-08-24T05:03:46Z" modified="2018-08-24T06:09:52Z" visited="2018-08-24T05:03:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-24T06:09:52Z" count="44"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/12/mat.java" added="2018-08-24T05:24:29Z" modified="2018-08-24T06:09:31Z" visited="2018-08-24T05:24:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-24T06:09:31Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/12/exp.java" added="2018-08-24T06:11:17Z" modified="2018-08-24T06:11:17Z" visited="2018-08-24T06:11:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-24T06:11:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/headertag.html" added="2018-08-29T08:09:01Z" modified="2018-08-29T08:19:07Z" visited="2018-08-29T08:09:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:09:02Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:19:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/breaktag.html" added="2018-08-29T08:18:50Z" modified="2018-08-29T08:19:19Z" visited="2018-08-29T08:18:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:18:50Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:19:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/anchortag.html" added="2018-08-29T08:29:58Z" modified="2018-08-29T08:42:33Z" visited="2018-08-29T08:29:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:31:04Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:42:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/anchor.html" added="2018-08-29T08:41:50Z" modified="2018-08-29T08:43:04Z" visited="2018-08-29T08:41:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:43:00Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:43:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/bold.html" added="2018-08-29T08:48:58Z" modified="2018-08-29T08:54:32Z" visited="2018-08-29T08:48:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:49:27Z" count="7"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:54:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/boldtag.html" added="2018-08-29T08:53:59Z" modified="2018-08-29T08:54:47Z" visited="2018-08-29T08:53:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T08:53:59Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T08:54:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/italictag.html" added="2018-08-29T09:00:12Z" modified="2018-08-29T09:01:02Z" visited="2018-08-29T09:00:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:00:12Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:01:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/uderlinetag.html" added="2018-08-29T09:05:25Z" modified="2018-08-29T09:05:33Z" visited="2018-08-29T09:05:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:05:25Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:05:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/marqueetag.html" added="2018-08-29T09:11:50Z" modified="2018-08-29T09:11:59Z" visited="2018-08-29T09:11:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:11:50Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:11:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/pretag.html" added="2018-08-29T09:17:11Z" modified="2018-08-29T09:18:12Z" visited="2018-08-29T09:17:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:18:05Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:18:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/ptag.html" added="2018-08-29T09:22:27Z" modified="2018-08-29T09:22:36Z" visited="2018-08-29T09:22:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:22:27Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:22:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/Downloads/images.jpg" added="2018-08-29T09:28:56Z" modified="2018-08-29T09:28:56Z" visited="2018-08-29T09:28:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-29T09:28:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/Downloads/HTB1Ku88MXXXXXa9XVXXq6xXFXXX4_grande.jpg" added="2018-08-29T09:29:27Z" modified="2018-08-29T09:29:27Z" visited="2018-08-29T09:29:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium-browser" exec="&apos;chromium-browser %u&apos;" modified="2018-08-29T09:29:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/quotetag.html" added="2018-08-29T09:36:23Z" modified="2018-08-29T09:38:30Z" visited="2018-08-29T09:36:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:38:24Z" count="4"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T09:38:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/imagetag.html" added="2018-08-29T09:47:24Z" modified="2018-08-29T10:39:03Z" visited="2018-08-29T09:47:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T09:56:05Z" count="6"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T10:39:03Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/columnspantag.html" added="2018-08-29T10:19:59Z" modified="2018-08-29T10:23:01Z" visited="2018-08-29T10:20:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T10:19:59Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T10:23:01Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/swetha%20mca/rowspan.html" added="2018-08-29T10:33:51Z" modified="2018-08-29T10:34:02Z" visited="2018-08-29T10:33:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-08-29T10:33:51Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-29T10:34:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/Desktop/MECH%20ONLINE%20FEED%20BACK%20FORM.html" added="2018-08-30T05:25:09Z" modified="2018-08-30T07:17:01Z" visited="2018-08-30T05:25:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-08-30T07:17:01Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eswecha/Downloads/Resume-20180831T070656Z-001.zip" added="2018-08-31T07:07:11Z" modified="2018-08-31T07:07:11Z" visited="2018-08-31T07:07:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-08-31T07:07:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

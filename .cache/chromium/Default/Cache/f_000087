@@ -1,0 +1,654 @@
+
+<div class="clearfix">
+    <div class="col-md-12 col-sm-12">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12 no-padding">
+                <span style="font-size: 15px; font-weight: bold;">Test Name : TCS</span><br />
+                <span>Total Q#  : </span><span id="Quesnumber">0</span>
+                <div style="height:20px">
+                    <span id="ppLoadingKP" style="display:none;overflow: hidden;background: #f9f9f9; opacity: 0.7;">
+                        <img src="/img/ajax-loader.gif" alt="Uploading... " />
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" style="border-bottom: 1px dashed #DDDDDD; padding:6px 0px">
+            
+            This test contains following sections. You can change the no. of questions in each section.
+        </div>
+
+
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-top: 10px;">
+                        <a class='mediumdarkgray' href="javascript:void();" onclick="slide('20')" id="at_20" style='padding:0px;width:100%'>
+                            <img src='/img/negtiv_icon.png' id='imgsubcat_20' height='10' width='10' /><span> Logical Reasoning</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row" id="divtest_20" style="display:block;">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Blood Relations </span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1125','a_1125');" id="a_1125"><span id="que_1125">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1125" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1125" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1125', 'a_1125','slottext_1125')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1125', 'a_1125');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Statement and Conclusion</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1123','a_1123');" id="a_1123"><span id="que_1123">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1123" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1123" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1123', 'a_1123','slottext_1123')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1123', 'a_1123');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Statement and Argument</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1122','a_1122');" id="a_1122"><span id="que_1122">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1122" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1122" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1122', 'a_1122','slottext_1122')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1122', 'a_1122');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Analogy</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1120','a_1120');" id="a_1120"><span id="que_1120">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1120" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1120" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1120', 'a_1120','slottext_1120')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1120', 'a_1120');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Statement and Assumption</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1124','a_1124');" id="a_1124"><span id="que_1124">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1124" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1124" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1124', 'a_1124','slottext_1124')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1124', 'a_1124');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Series Completion</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1119','a_1119');" id="a_1119"><span id="que_1119">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1119" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1119" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1119', 'a_1119','slottext_1119')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1119', 'a_1119');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Coding Decoding</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1121','a_1121');" id="a_1121"><span id="que_1121">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1121" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1121" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1121', 'a_1121','slottext_1121')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1121', 'a_1121');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Logical Reasoning</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_55','a_55');" id="a_55"><span id="que_55">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_55" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_55" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_55', 'a_55','slottext_55')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_55', 'a_55');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-top: 10px;">
+                        <a class='mediumdarkgray' href="javascript:void();" onclick="slide('19')" id="at_19" style='padding:0px;width:100%'>
+                            <img src='/img/plus_icon.png' id='imgsubcat_19' height='10' width='10' /><span> Verbal Ability</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row" id="divtest_19" style="display:none;">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Completing Statements</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1130','a_1130');" id="a_1130"><span id="que_1130">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1130" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1130" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1130', 'a_1130','slottext_1130')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1130', 'a_1130');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Antonyms</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1127','a_1127');" id="a_1127"><span id="que_1127">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1127" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1127" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1127', 'a_1127','slottext_1127')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1127', 'a_1127');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Verbal Ability</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_54','a_54');" id="a_54"><span id="que_54">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_54" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_54" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_54', 'a_54','slottext_54')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_54', 'a_54');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Spotting Errors</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1129','a_1129');" id="a_1129"><span id="que_1129">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1129" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1129" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1129', 'a_1129','slottext_1129')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1129', 'a_1129');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">One Word Substitutes</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1131','a_1131');" id="a_1131"><span id="que_1131">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1131" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1131" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1131', 'a_1131','slottext_1131')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1131', 'a_1131');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Verbal Analogies</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1128','a_1128');" id="a_1128"><span id="que_1128">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1128" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1128" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1128', 'a_1128','slottext_1128')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1128', 'a_1128');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Synonyms</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1126','a_1126');" id="a_1126"><span id="que_1126">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1126" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1126" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1126', 'a_1126','slottext_1126')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1126', 'a_1126');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12" style="padding:0px; margin-top: 10px;">
+                        <a class='mediumdarkgray' href="javascript:void();" onclick="slide('18')" id="at_18" style='padding:0px;width:100%'>
+                            <img src='/img/plus_icon.png' id='imgsubcat_18' height='10' width='10' /><span> Quantitative Ability</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row" id="divtest_18" style="display:none;">
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">LCM and HCF</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10178','a_10178');" id="a_10178"><span id="que_10178">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10178" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10178" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10178', 'a_10178','slottext_10178')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10178', 'a_10178');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Profit and Loss</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10176','a_10176');" id="a_10176"><span id="que_10176">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10176" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10176" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10176', 'a_10176','slottext_10176')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10176', 'a_10176');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Time and Work</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1097','a_1097');" id="a_1097"><span id="que_1097">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1097" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1097" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1097', 'a_1097','slottext_1097')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1097', 'a_1097');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Permutation and Combination</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10175','a_10175');" id="a_10175"><span id="que_10175">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10175" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10175" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10175', 'a_10175','slottext_10175')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10175', 'a_10175');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Percentage</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1101','a_1101');" id="a_1101"><span id="que_1101">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1101" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1101" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1101', 'a_1101','slottext_1101')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1101', 'a_1101');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Fraction </span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10173','a_10173');" id="a_10173"><span id="que_10173">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10173" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10173" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10173', 'a_10173','slottext_10173')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10173', 'a_10173');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Geometry and Mensuration</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10180','a_10180');" id="a_10180"><span id="que_10180">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10180" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10180" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10180', 'a_10180','slottext_10180')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10180', 'a_10180');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Quantitative Ability</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_53','a_53');" id="a_53"><span id="que_53">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_53" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_53" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_53', 'a_53','slottext_53')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_53', 'a_53');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Number system</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1098','a_1098');" id="a_1098"><span id="que_1098">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1098" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1098" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1098', 'a_1098','slottext_1098')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1098', 'a_1098');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Problems on Trains</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1093','a_1093');" id="a_1093"><span id="que_1093">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1093" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1093" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1093', 'a_1093','slottext_1093')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1093', 'a_1093');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Time, Speed, Distance</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10177','a_10177');" id="a_10177"><span id="que_10177">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10177" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10177" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10177', 'a_10177','slottext_10177')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10177', 'a_10177');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Ratio and Proportion</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_1100','a_1100');" id="a_1100"><span id="que_1100">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_1100" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_1100" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_1100', 'a_1100','slottext_1100')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_1100', 'a_1100');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Age Problems</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10179','a_10179');" id="a_10179"><span id="que_10179">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10179" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10179" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10179', 'a_10179','slottext_10179')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10179', 'a_10179');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-4 col-xs-12" style="padding: 0px;">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding-right:0px;"><span id="lblCategory" class="lightgrayfont" style="line-height: 30px;">Probability</span></div>
+                                <div class="col-md-6 col-sm-6 col-xs-12" style="padding:0px">
+                                    <a style="cursor:pointer; line-height: 30px;" class="" onclick="ShowEdit('diveditslot_10174','a_10174');" id="a_10174"><span id="que_10174">3</span> Questions <img src="/img/edit.png" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-8 col-xs-12 pull-right" id="diveditslot_10174" style="display:none; padding: 0px;">
+                            <div class="col-md-12 col-sm-12 col-xs-12" style="text-align: center;padding: 0px; vertical-align: middle;">
+                                <div class="col-md-3 col-sm-3 col-xs-4" style="padding:0px;line-height: 30px;">No. of Ques </div>
+                                <div class="col-md-4 col-sm-4 col-xs-4"><input class="form-control" style="width:80px; height:30px" id="slottext_10174" maxlength="4" value="3" /></div>
+                                <div class="col-md-5 col-sm-5 col-xs-12 mobile-btn-padding">
+                                    <input class="btn btn-default" type="button" style="display:inline;padding: 4px 12px;" value="OK" id="btnsaveedit" onclick="savedata('diveditslot_10174', 'a_10174','slottext_10174')" />
+                                    <a class="btn btn-default" id="btncanceledit" style="font-size: 12px;padding: 5px 12px;" onclick="hideEdit('diveditslot_10174', 'a_10174');">Cancel</a>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                </div>
+
+
+    </div>
+</div>
+<script type="text/javascript">
+    $(document).ready( function(){
+        var totQ="87";
+        $("#Quesnumber").text(totQ);
+    })
+
+</script>
+<style type="text/css">
+    .mobile-btn-padding {
+        padding: 0px;
+        text-align:center;
+    }
+    @media(max-width: 420px) {
+        .mobile-btn-padding {
+            padding: 10px;
+            text-align:center;
+        }
+        .modal-header .close {
+            margin-right: 0px;
+        }
+    }
+</style>
